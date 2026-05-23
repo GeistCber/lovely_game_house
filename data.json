@@ -1,7 +1,7 @@
 {
   "players": [
     {
-      "name": "露露1",
+      "name": "露露",
       "tag": "甜心萝莉音 · 全能金牌中单",
       "avatar": "picture/头像1.jpg",
       "games": {
@@ -62,37 +62,6 @@
         "英雄联盟",
         "金铲铲之战",
         "瓦罗兰特"
-      ]
-    },
-    {
-      "name": "新选手",
-      "tag": "特色标签",
-      "avatar": "picture/头像1.jpg",
-      "games": {
-        "王者荣耀": {
-          "highest": {
-            "img": "picture/头像1.jpg",
-            "text": "历史最高：暂无"
-          },
-          "current": {
-            "img": "picture/头像1.jpg",
-            "text": "本赛季当前：暂无"
-          }
-        },
-        "无畏契约": {
-          "highest": {
-            "img": "picture/头像1.jpg",
-            "text": "历史最高：暂无"
-          },
-          "current": {
-            "img": "picture/头像1.jpg",
-            "text": "本赛季当前：暂无"
-          }
-        }
-      },
-      "gamesOrder": [
-        "无畏契约",
-        "王者荣耀"
       ]
     }
   ],
