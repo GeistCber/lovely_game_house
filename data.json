@@ -1,0 +1,117 @@
+{
+  "players": [
+    {
+      "name": "露露1",
+      "tag": "甜心萝莉音 · 全能金牌中单",
+      "avatar": "picture/头像1.jpg",
+      "games": {
+        "无畏契约": {
+          "highest": {
+            "img": "picture/无畏契约1.jpg",
+            "text": "历史最高：白银"
+          },
+          "current": {
+            "img": "picture/无畏契约2.jpg",
+            "text": "本赛季当前：白银"
+          }
+        },
+        "王者荣耀": {
+          "highest": {
+            "img": "picture/王者荣耀1.jpg",
+            "text": "历史最高：最强王者"
+          },
+          "current": {
+            "img": "picture/王者荣耀2.jpg",
+            "text": "本赛季当前：尊贵铂金"
+          }
+        },
+        "英雄联盟": {
+          "highest": {
+            "img": "picture/英雄联盟1.jpg",
+            "text": "历史最高：华贵铂金"
+          },
+          "current": {
+            "img": "picture/英雄联盟2.jpg",
+            "text": "本赛季当前：黑铁"
+          }
+        },
+        "金铲铲之战": {
+          "highest": {
+            "img": "picture/金铲铲之战1.jpg",
+            "text": "历史最高：华贵铂金"
+          },
+          "current": {
+            "img": "picture/金铲铲之战2.jpg",
+            "text": "本赛季当前：坚毅黑铁"
+          }
+        },
+        "瓦罗兰特": {
+          "highest": {
+            "img": "picture/瓦罗兰特1.jpg",
+            "text": "历史最高：铂金"
+          },
+          "current": {
+            "img": "picture/瓦罗兰特2.jpg",
+            "text": "本赛季当前：铂金"
+          }
+        }
+      },
+      "gamesOrder": [
+        "无畏契约",
+        "王者荣耀",
+        "英雄联盟",
+        "金铲铲之战",
+        "瓦罗兰特"
+      ]
+    },
+    {
+      "name": "新选手",
+      "tag": "特色标签",
+      "avatar": "picture/头像1.jpg",
+      "games": {
+        "王者荣耀": {
+          "highest": {
+            "img": "picture/头像1.jpg",
+            "text": "历史最高：暂无"
+          },
+          "current": {
+            "img": "picture/头像1.jpg",
+            "text": "本赛季当前：暂无"
+          }
+        },
+        "无畏契约": {
+          "highest": {
+            "img": "picture/头像1.jpg",
+            "text": "历史最高：暂无"
+          },
+          "current": {
+            "img": "picture/头像1.jpg",
+            "text": "本赛季当前：暂无"
+          }
+        }
+      },
+      "gamesOrder": [
+        "无畏契约",
+        "王者荣耀"
+      ]
+    }
+  ],
+  "contact": {
+    "qq": {
+      "img": "picture/qq.jpg",
+      "number": "1094209750"
+    },
+    "wechat": {
+      "img": "picture/微信.jpg",
+      "id": "buxiangguanshibiefan"
+    }
+  },
+  "games": [
+    "无畏契约",
+    "王者荣耀",
+    "英雄联盟",
+    "金铲铲之战",
+    "瓦罗兰特"
+  ],
+  "adminPassword": "1234"
+}
